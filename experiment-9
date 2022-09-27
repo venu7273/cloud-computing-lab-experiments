@@ -1,0 +1,8 @@
+##allocating storage using vm ware work station
+step_1: Open vm work station and select existing ubuntu vm
+step 2: create files a file or open a file.
+step 3: click on vm and select settings
+step 4: click on snapshot
+step 5: now close the opened file tab
+step 6: now click on snapshot retrieve
+step 7: now the systen goes to last state
