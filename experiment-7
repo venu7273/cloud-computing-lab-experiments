@@ -1,0 +1,7 @@
+##creating virtual machine of size 2 G.B
+step_1: go to vm work station and select ubuntu vm.
+step_2: select the vm and go to settings.
+step_4: add new hard wizard.
+step_5: select harddrive as hard disk.
+step_6: assign disk size 2 G.B.
+step_7: click on ok.
