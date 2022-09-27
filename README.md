@@ -9,6 +9,7 @@
 ![image](https://user-images.githubusercontent.com/109106057/192438145-b993007e-1045-45ef-a844-55777b1ecb13.png)
 ![image](https://user-images.githubusercontent.com/109106057/192438160-54767721-ebd7-445d-b770-d29328dc3307.png)
 # exeriment 7
+(https://github.com/venu7273/cloud-computing-lab-experiments/blob/main/experiment-7)
 ![image](https://user-images.githubusercontent.com/109106057/192442075-35023bb8-1ddb-4c61-af16-4e77e891d391.png)
 ![image](https://user-images.githubusercontent.com/109106057/192442160-219beb5b-c79c-43ba-9827-c4bd696d2532.png)
 ![image](https://user-images.githubusercontent.com/109106057/192442242-c39736fa-3b35-4788-b789-8900749438fd.png)
