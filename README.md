@@ -31,11 +31,24 @@
 ![image](https://user-images.githubusercontent.com/109106057/192699088-898e0d04-e92f-47e4-a3e1-d03605bc2d32.png)
 ![image](https://user-images.githubusercontent.com/109106057/192699136-f6c38b76-7546-450c-ae00-83a915c767f2.png)
 experiment 10
+(https://github.com/venu7273/cloud-computing-lab-experiments/blob/main/experiment-10)
 ![image](https://user-images.githubusercontent.com/113407411/192668871-3ef2a0b9-974d-4fd3-907a-61abde5c7e96.png)
 ![image](https://user-images.githubusercontent.com/113407411/192668928-13812200-6773-47d8-a93f-79c7ceb25455.png)
 ![image](https://user-images.githubusercontent.com/113407411/192668976-bb905be3-df04-45a8-ab40-55605f721c2a.png)
 ![image](https://user-images.githubusercontent.com/113407411/192668991-7d58bae1-bacc-4845-b806-5e2ed31acc72.png)
 ![image](https://user-images.githubusercontent.com/113407411/192669005-5bdf01ec-299d-4631-b5e9-b4d74f16b422.png)
 ![image](https://user-images.githubusercontent.com/113407411/192669018-ac8bc66f-1188-4203-b7e6-bb67de955d61.png)
+experiment 11
+![image](https://user-images.githubusercontent.com/113407411/192724671-730b7094-0387-46a3-a259-2d67c3af6b67.png)
+![image](https://user-images.githubusercontent.com/113407411/192724697-8b2f8eb3-a436-4e40-883a-f3411aac414e.png)
+![image](https://user-images.githubusercontent.com/113407411/192724725-51731567-403b-4ddb-8fe7-41e5e2577f53.png)
+![image](https://user-images.githubusercontent.com/113407411/192724746-d7ff9eae-c5b3-4a48-a5a0-059142ac4e25.png)
+![image](https://user-images.githubusercontent.com/113407411/192724788-96536188-9305-4a52-9cbc-6b92301233d6.png)
+experiment 12
+![image](https://user-images.githubusercontent.com/109106057/192730063-8994b91d-1061-45fd-b29b-2400cc942564.png)
+![image](https://user-images.githubusercontent.com/113407411/192728025-e2995efd-c9c3-43cb-b9c4-395bb2a7e854.png)
+![image](https://user-images.githubusercontent.com/113407411/192728065-1b90d71e-f5bb-4f90-989e-cf99caed6c65.png)
+
+
 
 
