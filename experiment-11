@@ -1,0 +1,6 @@
+##change hardware compatability of clone vm
+step_1: open vm workstation and select cloned vm.
+step_2: go to settings and select harddrive
+step_3: select create new virtual disk
+step_5: assign size for disk as 4gb
+step_6: click on ok and launch
