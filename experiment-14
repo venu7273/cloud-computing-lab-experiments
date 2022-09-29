@@ -1,0 +1,10 @@
+step_1: create a account in microsoft azure or login.
+step_2: open azure and go to  resource groups.
+step_3: create new resource group and give basic configurations.
+step_4: finally click on review+create 
+new resource is created successfully.
+step_5: click on create virtual machine
+step_6: give basic configurations.
+step_7: give size of ram and cpu.
+step_8: give vm image as windows datacentre.
+step_9: click on review+create
