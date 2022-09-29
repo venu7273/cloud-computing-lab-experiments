@@ -1,0 +1,7 @@
+##creating web application
+step_1: open azure and click on web services
+step_2: click on create new web application
+step_3: give necessary configuration
+step_4: click on review+create 
+step_5: deploy the web application
+step_6: on successfull deployement copy web url and paste in a browser
