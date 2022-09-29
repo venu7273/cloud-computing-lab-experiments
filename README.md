@@ -75,6 +75,31 @@
 ![image](https://user-images.githubusercontent.com/109106057/192940052-69febc79-2076-4f74-8511-90a6d740c5dd.png)
 ![image](https://user-images.githubusercontent.com/109106057/192940074-bdff0abd-821f-4bad-9266-35cf153dd96b.png)
 ![image](https://user-images.githubusercontent.com/109106057/192940091-39d0578b-79b1-4a40-b0e5-99b2df6100b2.png)
+#experiment 17
+![image](https://user-images.githubusercontent.com/109106057/192980398-00be8c26-8dce-4d4f-a7ed-a40e657a4a54.png)
+![image](https://user-images.githubusercontent.com/109106057/192980480-7e68e2f2-8a6b-4fcf-967f-5f3c0fa9e379.png)
+![image](https://user-images.githubusercontent.com/109106057/192980590-c0f0146c-4400-45d9-943f-9f74d1500fb5.png)
+![image](https://user-images.githubusercontent.com/109106057/192980644-4f70ca27-7140-48ee-8543-46f97ecd0d3b.png)
+![image](https://user-images.githubusercontent.com/109106057/192980710-2ef39a5a-4319-4640-b41f-fe5a6e4a6c33.png)
+#experiment 18
+![image](https://user-images.githubusercontent.com/109106057/192980811-c034058c-123b-4310-a4bf-3090f9a8f6bc.png)
+![image](https://user-images.githubusercontent.com/109106057/192980848-8096d000-6d72-4892-bab0-0dae1f3e1f0e.png)
+![image](https://user-images.githubusercontent.com/109106057/192980906-0b4f878d-7f66-46cf-b4ea-6ef1eae33027.png)
+![image](https://user-images.githubusercontent.com/109106057/192981114-220db06b-f38f-4d5d-b791-0a1a4baed4d6.png)
+![image](https://user-images.githubusercontent.com/109106057/192981198-c1bda363-4b58-4885-9b9c-77716201c1f6.png)
+#experiment 19
+![image](https://user-images.githubusercontent.com/109106057/192981421-536f436d-eabf-41ad-a7f9-d98aac2638d8.png)
+![image](https://user-images.githubusercontent.com/109106057/192981458-c592c144-8783-46ab-a1cc-5564c5db77b2.png)
+![image](https://user-images.githubusercontent.com/109106057/192981493-2d8d0b20-9c86-470c-b0cf-fbd8dc5abab3.png)
+![image](https://user-images.githubusercontent.com/109106057/192981535-b677a1aa-7e40-4bec-8452-d58822fe3a44.png)
+![image](https://user-images.githubusercontent.com/109106057/192981589-df2369ae-ccad-43d1-be5e-a66d0cc4d226.png)
+#experiment 20
+![image](https://user-images.githubusercontent.com/109106057/192981800-9802915b-5b1f-4022-931a-57ff7f2ea9ce.png)
+![image](https://user-images.githubusercontent.com/109106057/192981836-16319c30-f2b3-4583-b39d-6c05bb37e076.png)
+![image](https://user-images.githubusercontent.com/109106057/192981866-69d96bcd-c059-45da-920c-414eee082367.png)
+![image](https://user-images.githubusercontent.com/109106057/192981903-71492c1a-ed0d-4715-b4f5-ba688a4afc4a.png)
+![image](https://user-images.githubusercontent.com/109106057/192981945-d085ec30-4bc8-4545-85d2-d78d905bc9bf.png)
+
 
 
 
