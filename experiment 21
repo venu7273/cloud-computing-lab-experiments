@@ -1,0 +1,37 @@
+Step 1 – System Update
+$ sudo apt-get update
+Step 2 – Install Java and Set JAVA_HOME
+//This first thing to do is to setup the webupd8 ppa on your system. Run the following
+command and proceed.
+$ sudo apt-add-repository ppa:webupd8team/java
+$ sudo apt-get update
+//After setting up the ppa repository, update the package cache as well.
+//Install the Java 8 installer
+$ sudo apt-get install oracle-java8-installer
+// After the installation is finished, Oracle Java is setup. Run the java command again to
+check the version and vendor.
+[or]
+$ sudo apt-get install default-jdk
+$ java -version
+Step 3 – Add a dedicated Hadoop user
+$ sudo addgroup hadoop
+$ sudo adduser --ingroup hadoop hduser
+// Add hduser to sudo user group
+$ sudo adduser hduser sudo
+Step 4 – Install SSH and Create Certificates
+$ sudo apt-get install ssh
+$ su hduser
+$ ssh-keygen -t rsa -P ""
+// Set Environmental variables
+$ cat $HOME/.ssh/id_rsa.pub >> $HOME/.ssh/authorized_keys
+Step 5 – Check if SSH works
+$ ssh localhost
+Step 6 – Install Hadoop
+// Extract Hadoop-2.7.2
+$ sudo tar xvzf hadoop-2.7.2.tar.gz
+// Create a folder ‘hadoop’ in /usr/local
+$ sudo mkdir –p /usr/local/hadoop
+// Move the Hadoop folder to /usr/local/hadoop
+$ sudo mv hadoop-2.7.2 /usr/local/hadoop
+// Assigning read and write access to Hadoop folder
+$ sudo chown –R hduser:hadoop /usr/local/hadoop
